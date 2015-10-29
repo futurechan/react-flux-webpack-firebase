@@ -1,0 +1,24 @@
+{
+  "name": "react-flux-webpack-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --progress -colors",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^5.8.33",
+    "babel-loader": "^5.3.2",
+    "css-loader": "^0.21.0",
+    "node-sass": "^3.4.1",
+    "react": "^0.14.1",
+    "react-hot-loader": "^1.3.0",
+    "sass-loader": "^3.1.1",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  }
+}
